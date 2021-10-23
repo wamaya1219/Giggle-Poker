@@ -1,0 +1,28 @@
+{
+  "name": "giggle-poker",
+  "version": "1.0.0",
+  "description": "* ルールをテキサスホールデムとした、２～６人対戦を実現したポーカーをWebアプリケーションで実現する。",
+  "main": "test.js",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wamaya1219/Giggle-Poker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wamaya1219/Giggle-Poker/issues"
+  },
+  "homepage": "https://github.com/wamaya1219/Giggle-Poker#readme",
+  "engines": {
+    "node": "14.18"
+  }
+}
